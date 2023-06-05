@@ -1,0 +1,46 @@
+ body {
+    background-color: lightgray;
+    text-align: center;
+    background-image: url("img/onur-binay-_yC2htzMYnI-unsplash.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: top;
+}
+
+ img {
+    width: 500px;
+    height: 400px;
+ }
+
+ .text-product {
+     font-family: Rockwell;
+     font-size: 2em;
+     color: orange;
+ }
+
+ h1 {
+     font-size: 2em;
+     font-family: Copperplate, serif;
+     color: darkred;
+ }
+
+ h2 {
+     font-size: 2em;
+     font-family: Rockwell, serif;
+     color: darkorange;
+ }
+
+ a {
+     font-family: Georgia,serif;
+     color: greenyellow;
+ }
+
+ .text-class {
+     font-family: Rockwell, serif;
+     font-size: 2em;
+     color: white;
+     text-align: center;
+ }
+
+
+
